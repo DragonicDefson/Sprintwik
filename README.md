@@ -16,3 +16,4 @@
 * Node.JS
 * One of the above database types.
 * PHP
+* Composer
