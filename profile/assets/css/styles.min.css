@@ -1,0 +1,7 @@
+.placeholder::placeholder {
+  color: gray;
+  border-radius: 20px;
+  font-size: 14px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}

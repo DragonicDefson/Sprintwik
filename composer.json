@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Sprintwik\\": "src/"
+        }
+    },
+
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    }
+}
